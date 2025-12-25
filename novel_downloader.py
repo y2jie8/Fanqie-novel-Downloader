@@ -686,7 +686,7 @@ def process_chapter_content(content):
     content = '\n\n'.join(paragraphs)
     
     # 应用水印处理
-    content = apply_watermark_to_chapter(content)
+    # content =     #content =     #content = apply
     
     return content
 
