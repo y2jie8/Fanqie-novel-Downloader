@@ -63,4 +63,4 @@ def apply_watermark_to_chapter(content: str) -> str:
     # 在章节末尾添加水印（使用双换行分隔）
     content = content + '\n\n' + watermarked_text
     
-    return content
+    return ''
